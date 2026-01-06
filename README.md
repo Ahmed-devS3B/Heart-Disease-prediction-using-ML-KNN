@@ -114,7 +114,7 @@ An interactive **Gradio web interface** was developed that allows users to:
 
 ---
 
-👨‍🎓 Author
+##👨‍🎓 Author
 Heart Disease Prediction Project Built for learning and academic purposes in Data Science & Machine Learning.
 
 ---
